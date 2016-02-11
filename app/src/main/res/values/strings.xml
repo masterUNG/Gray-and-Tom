@@ -81,31 +81,52 @@
     <string name="title_navigation_Etc_Cyber">RSU CYBER UNIVERSITY</string>
 
 
-
     <string name="title_activity_maps">แผนที่</string>
 
-    <string name="title_build1">ตึก 1</string>  <string name="snippet_build1">อาคารอาทิตย์ อุไรรัตน์</string>
-    <string name="title_build2">ตึก 2</string>  <string name="snippet_build2">อาคารประสิทธิรัตน์</string>
-    <string name="title_build3">ตึก 3</string>  <string name="snippet_build3">อาคารอุไรรัตน์</string>
-    <string name="title_build4">ตึก 4</string>  <string name="snippet_build4">อาคารวิทยาศาสตร์</string>
-    <string name="title_build4_1">ตึก 4/1</string>  <string name="snippet_build4_1">อาคารวิทยาศาสตร์</string>
-    <string name="title_build4_2">ตึก 4/2</string>  <string name="snippet_build4_2">อาคารวิทยาศาสตร์</string>
-    <string name="title_build5">ตึก 5</string>  <string name="snippet_build5">อาคารวิษณุรัตน์</string>
-    <string name="title_build6">ตึก 6</string>  <string name="snippet_build6">อาคาร Student Center</string>
-    <string name="title_build7">ตึก 7</string>  <string name="snippet_build7">อาคารหอสมุด</string>
-    <string name="title_build8">ตึก 8</string>    <string name="snippet_build8">อาคารคุณหญิงพัฒนา</string>
-    <string name="title_build9">ตึก 9</string>    <string name="snippet_build9">อาคารประสิทธิ์พัฒนา</string>
-    <string name="title_build10">ตึก 10</string>    <string name="snippet_build10">วิทยาลัยดนตรี/อาคารจอดรถ</string>
-    <string name="title_build11">ตึก 11</string>    <string name="snippet_build11">อาคารรัตนคุณากร</string>
-    <string name="title_build12">ตึก 12</string>    <string name="snippet_build12">อาคารรังสิตประยูรศักดิ์</string>
-    <string name="title_build12_1">ตึก 12/1</string>    <string name="snippet_build12_1">อาคารรังสิตประยูรศักดิ์ 2</string>
-    <string name="title_build13">ตึก 13</string>    <string name="snippet_build13">อาคารสำนักงานอาคารและสิ่งแวดล้อม</string>
-    <string name="title_build14">ตึก 14</string>    <string name="snippet_build14">อาคารนันทนาการ</string>
-    <string name="title_build15">ตึก 15</string>    <string name="snippet_build15">อาคารดิจิตอล มัลติมีเดีย คอมเพล็กซ์</string>
-    <string name="title_build16">ตึก 16</string>    <string name="snippet_build16">อาคาร Sun Herb Thai Chinese manufacturing</string>
-    <string name="title_buildPatana">หอศิลป์พัฒนา</string>  <string name="snippet_buildPatana"></string>
-    <string name="title_buildGuan">ตึก 18</string>  <string name="snippet_buildGuan">ศาลากวนอิม</string>
-    <string name="title_buildMusicHall">ตึก 17</string>    <string name="snippet_buildMusicHall">ศาลาดนตรีสุริยเทพ</string>
+    <string name="title_build1">ตึก 1</string>
+    <string name="snippet_build1">อาคารอาทิตย์ อุไรรัตน์</string>
+    <string name="title_build2">ตึก 2</string>
+    <string name="snippet_build2">อาคารประสิทธิรัตน์</string>
+    <string name="title_build3">ตึก 3</string>
+    <string name="snippet_build3">อาคารอุไรรัตน์</string>
+    <string name="title_build4">ตึก 4</string>
+    <string name="snippet_build4">อาคารวิทยาศาสตร์</string>
+    <string name="title_build4_1">ตึก 4/1</string>
+    <string name="snippet_build4_1">อาคารวิทยาศาสตร์</string>
+    <string name="title_build4_2">ตึก 4/2</string>
+    <string name="snippet_build4_2">อาคารวิทยาศาสตร์</string>
+    <string name="title_build5">ตึก 5</string>
+    <string name="snippet_build5">อาคารวิษณุรัตน์</string>
+    <string name="title_build6">ตึก 6</string>
+    <string name="snippet_build6">อาคาร Student Center</string>
+    <string name="title_build7">ตึก 7</string>
+    <string name="snippet_build7">อาคารหอสมุด</string>
+    <string name="title_build8">ตึก 8</string>
+    <string name="snippet_build8">อาคารคุณหญิงพัฒนา</string>
+    <string name="title_build9">ตึก 9</string>
+    <string name="snippet_build9">อาคารประสิทธิ์พัฒนา</string>
+    <string name="title_build10">ตึก 10</string>
+    <string name="snippet_build10">วิทยาลัยดนตรี/อาคารจอดรถ</string>
+    <string name="title_build11">ตึก 11</string>
+    <string name="snippet_build11">อาคารรัตนคุณากร</string>
+    <string name="title_build12">ตึก 12</string>
+    <string name="snippet_build12">อาคารรังสิตประยูรศักดิ์</string>
+    <string name="title_build12_1">ตึก 12/1</string>
+    <string name="snippet_build12_1">อาคารรังสิตประยูรศักดิ์ 2</string>
+    <string name="title_build13">ตึก 13</string>
+    <string name="snippet_build13">อาคารสำนักงานอาคารและสิ่งแวดล้อม</string>
+    <string name="title_build14">ตึก 14</string>
+    <string name="snippet_build14">อาคารนันทนาการ</string>
+    <string name="title_build15">ตึก 15</string>
+    <string name="snippet_build15">อาคารดิจิตอล มัลติมีเดีย คอมเพล็กซ์</string>
+    <string name="title_build16">ตึก 16</string>
+    <string name="snippet_build16">อาคาร Sun Herb Thai Chinese manufacturing</string>
+    <string name="title_buildPatana">หอศิลป์พัฒนา</string>
+    <string name="snippet_buildPatana"></string>
+    <string name="title_buildGuan">ตึก 18</string>
+    <string name="snippet_buildGuan">ศาลากวนอิม</string>
+    <string name="title_buildMusicHall">ตึก 17</string>
+    <string name="snippet_buildMusicHall">ศาลาดนตรีสุริยเทพ</string>
 
     <string name="title_sunshine">องค์สุริยเทพ</string>
 
@@ -163,13 +184,10 @@
     <string name="cafe10">ร้านกาแฟตึก15 (ชั้น 2)</string>
 
 
-
     <!--<string name="title_build">ตีก </string>
     <string name="snippet_build"></string>
     <string name="title_build">ตีก </string>
     <string name="snippet_build"></string>-->
-
-
 
 
 </resources>
