@@ -42,7 +42,8 @@
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
             android:layout_marginTop="10dp"
-            android:layout_marginBottom="10dp">
+            android:layout_marginBottom="10dp"
+            android:id="@+id/linTitle">
 
             <TextView
                 android:layout_width="120dp"
@@ -62,5 +63,27 @@
                 android:textSize="@dimen/font_1"
                 android:gravity="center" />
         </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView3"
+                android:src="@drawable/map"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/textView2"
+                android:textSize="@dimen/font_1"
+                android:layout_gravity="center_horizontal" />
+        </LinearLayout>
     </LinearLayout>
+
 </RelativeLayout>
