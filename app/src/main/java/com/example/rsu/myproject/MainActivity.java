@@ -9,7 +9,8 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-
+    //Explicit
+    private MyManage objMyManage;
 
 
     @Override
@@ -22,6 +23,10 @@ public class MainActivity extends AppCompatActivity {
 
         TextView txtmap = (TextView) findViewById(R.id.txtmap);
         TextView txtdata = (TextView) findViewById(R.id.txtdata);
+
+        //Request Database
+        objMyManage = new MyManage(this);
+
 
         imvmap.setOnClickListener(new View.OnClickListener() {
             @Override
